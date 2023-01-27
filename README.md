@@ -1,5 +1,5 @@
 # BiN-TABL Data Normalization for Bilinear Structures in High Frequency Financial Time series
-In this repository is presented the pytorch implementation of the paper [Data Normalization for Bilinear Structures in High Frequency Financial Time series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412547).
+In this repository is implemented the pytorch implementation of the paper [Data Normalization for Bilinear Structures in High Frequency Financial Time series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412547).
 
 In particular I've implented BiN-B(TABL) and BiN-C(TABL).
 
