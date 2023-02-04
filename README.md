@@ -3,7 +3,7 @@ In this repository is proposed the pytorch implementation of the paper [Data Nor
 
 In the notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
 
-I reached the same results of the original paper.
+I reached the same results of the paper.
 
 # Usage
 
